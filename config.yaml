@@ -1,0 +1,12 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+    category: "categories"
+    tag: "tags"
+baseurl: "http://radnor.github.io/blog"
+Title: "Kevin's Blog"
+Params:
+    Description: "A place for me."
+...
