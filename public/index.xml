@@ -7,7 +7,17 @@
     
     
     
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    <updated>Sat, 29 Mar 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>http://radnor.github.io/posts/newest</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://radnor.github.io/posts/newest</guid>
+      <description>&lt;p&gt;Abc def.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
