@@ -8,4 +8,4 @@ categories:
     - "test"
 ---
 
-Abc def.
+A test of the Hugo site generation tool.
