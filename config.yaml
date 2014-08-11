@@ -5,7 +5,7 @@ publishdir: "public"
 indexes:
     category: "categories"
     tag: "tags"
-baseurl: "http://radnor.github.io/blog"
+baseurl: "http://radnor.github.io/"
 title: "Kevin's Blog"
 params:
     Description: "A place for me."
