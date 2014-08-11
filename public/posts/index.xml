@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Kevin&#39;s Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/posts/index.xml</link>
+    
+    
+    
+    <updated>Mon, 11 Aug 2014 06:51:14 UTC</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/posts/first</link>
+      <pubDate>Mon, 11 Aug 2014 06:51:14 UTC</pubDate>
+      
+      <guid>http://localhost:1313/posts/first</guid>
+      <description>&lt;p&gt;This is a first post. A test, really.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
